@@ -6,9 +6,6 @@ Created on Sat Nov 16 17:57:13 2019
 @author: jcunanan
 """
 
-# you can write to stdout for debugging purposes, e.g.
-# print("this is a debug message")
-
 #from extratypes import Point2D  # library with types used in the task
 from sympy import Point2D
 
